@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+body,.nav{
+    background-color: #FFF8E5 !important;
+}
+.nav-link.active{
+    color: #E05D5D !important;
+    background-color: transparent!important;
+}
+.nav-link{
+    color:#00A19D;
+}
+.intro-content{
+    margin-top:90px;
+    width: 60%;
+}
+.intro-img{
+    margin-left:40px;
+    padding-left: 30px;
+    animation:motion 1.5s alternate infinite;
+}
+@keyframes motion{
+    0%{transform: translateY(0px);}
+    100%{transform: translateY(-15px);}
+}
+.k-btn{
+    background-color: #00A19D;
+    padding:15px;
+    border-radius: 20px;
+    color:white !important;
+    
+}
+.k-btn:hover{
+    text-decoration: none;
+}
+.mission{
+   align-items: center;
+}
+.mission-content{
+    width:70%;
+    margin-left:40px;
+}
+.mission-img {
+    width:40%;
+   
+}
+.mission-img img{
+    margin-left: 40px;
+}
+
+.cards{
+    width:250px;
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+}
+.grids,.grid-2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+.cards img{
+    width:150px;
+    height: 150px;
+}
+.search-input{
+    border:none;
+    width:70%;
+    padding:15px;
+    border-radius: 20px;
+}
+.search{
+    text-align: center;
+}
+.search-results{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    gap:50px;
+    margin: 30px;
+}
+.card{
+    padding:20px;
+    border-radius: 20px;
+}
+
+/* Login css */
+input[type="text"]{
+    background-color: antiquewhite;
+    padding: 12px;
+    border-radius: 20px;
+    width:80%;
+}
+
+.form input[type="email"],.form input[type="password"],.form input[type="text"]{
+    background-color: antiquewhite;
+    padding: 12px;
+    border-radius: 20px;
+    width: 100%;
+}
+.form input[type="email"]:focus,.form input[type="password"]:focus,.form input[type="text"]:focus{
+    outline: none;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:6%;
+    margin-bottom: 30px;
+    
+}
+form{
+    background-color: white;
+    padding:20px;
+    border-radius: 20px;
+    width:30%;
+}
+.programs .card img{
+    width:100%;
+    height:200px;
+}
+.program-lists{
+    display:grid;
+    grid-template-columns: repeat(3,auto);
+    margin-top: 20px;
+    gap:50px;
+}
+.program-lists-parent,.excersises-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.program-header{
+   background-color: #FFEF78;
+   width:100%;
+}
+.excersises-grid{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    gap:50px;
+}
+.card input:checked +div {
+    color:#ccc;
+    text-decoration: line-through;
+}
