@@ -38,6 +38,10 @@ Here, we have mentioned the instructions to set up git. If you don't already kno
         - `git config --global user.email "Your email address"` 
  - Optionally, you can [setup ssh keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to authenticate easily. 
 
+
+
+
+
 # How to contribute?
 
 We ♥ Contributors!
@@ -50,6 +54,12 @@ Happy Submissions
 
 All the Best!!
 
+# How to run the app locally ?
+
+### 1. Install and start a server.
+Preffered WAMP 
+### 2. Navigate to the cloned project directory
+In WAMP you would have to navigate to the WWW directory and find your project directory.
 # Project Maintainer
 
 <div >
