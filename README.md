@@ -38,6 +38,10 @@ Here, we have mentioned the instructions to set up git. If you don't already kno
         - `git config --global user.email "Your email address"` 
  - Optionally, you can [setup ssh keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to authenticate easily. 
 
+
+
+
+
 # How to contribute?
 
 We ♥ Contributors!
@@ -49,6 +53,31 @@ To ensure your contributions count,  I implore you to follow the instructions me
 Happy Submissions
 
 All the Best!!
+
+# How to run the app locally ?
+
+### 1. Install and start a server.
+Preffered WAMP , However other servers can be used as well.
+### 2. Navigate to the cloned project directory
+In WAMP you would have to navigate to the WWW directory and find your project directory.
+
+### 3. Import data
+Go to your phpMyAdmin and click on **Import** on the command pane. Navigate to the database-dump folder in the project directory and select the sql file inside it to import the contents to your local server.
+
+### 4. Change Credentials (optional)
+
+Your phpMyAdmin may have a different user credentials. By default ` username is root` and `password is empty (leave blank)`.
+But if you had customized it during your installation then navigate to **partials** folder > db.php and make the necessary changes there.
+
+### 5. Go to your port and view website
+In **WAMP**
+The website url will be available at 
+
+```
+localhost/<your clone destination>/crafty-citrus
+```
+
+<em>**For any help with code please raise an issue, we will get back to you shortly.**</em>
 
 # Project Maintainer
 
