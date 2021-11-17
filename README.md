@@ -61,10 +61,10 @@ Preffered WAMP , However other servers can be used as well.
 ### 2. Navigate to the cloned project directory
 In WAMP you would have to navigate to the WWW directory and find your project directory.
 
-### 3.Import data
+### 3. Import data
 Go to your phpMyAdmin and click on **Import** on the command pane. Navigate to the database-dump folder in the project directory and select the sql file inside it to import the contents to your local server.
 
-### 4.Change Credentials (optional)
+### 4. Change Credentials (optional)
 
 Your phpMyAdmin may have a different user credentials. By default ` username is root` and `password is empty (leave blank)`.
 But if you had customized it during your installation then navigate to **partials** folder > db.php and make the necessary changes there.
@@ -76,6 +76,8 @@ The website url will be available at
 ```
 localhost/<your clone destination>/crafty-citrus
 ```
+
+<em>**For any help with code please raise an issue, we will get back to you shortly.**</em>
 
 # Project Maintainer
 
