@@ -1,1 +1,1 @@
-<footer class="text-center p-4">Coded with &#128150; by Everly </footer>
+<footer class="text-center p-4">Copyright Crafty Citrus </footer>

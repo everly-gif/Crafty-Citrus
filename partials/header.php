@@ -1,6 +1,6 @@
 <nav class="nav nav-pills p-4 bg-white">
         <div class="mr-auto">
-        <a class="navbar-brand nav-link" href="index.php">Women Empowerment</a>
+        <a class="navbar-brand nav-link" href="index.php">Crafty Citrus</a>
         </div>
         <a class="nav-link" href="index.php">Home</a>
         <a class="nav-link" href="trainings.php">Trainings</a>

@@ -19,7 +19,7 @@ session_start();
 
 <div class="intro d-flex space-between p-4 mt-3">
 <div class="intro-content">
-    <h1>Empowering Women one at a time</h1><br>
+    <h1>Providing a platform for artists</h1><br>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce euismod aliquet massa nec varius. Vivamus tristique ultrices dui, vitae rutrum ante placerat eu. Integer facilisis dignissim metus quis ullamcorper. In hac habitasse platea dictumst. Integer feugiat lectus sit amet metus viverra tincidunt. </p><br>
     <a class="k-btn" href="#">Know More >></a>
 </div>
@@ -30,7 +30,7 @@ session_start();
 
 
 <div class="solution p-4 mt-4 mb-5">
-    <h2 class="text-center">What WE solves</h2>
+    <h2 class="text-center">What Crafty Citrus solves</h2>
     <p class="pt-5 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce euismod aliquet massa nec varius. Vivamus tristique ultrices dui, vitae rutrum ante placerat eu. Integer facilisis dignissim metus quis ullamcorper. In hac habitasse platea dictumst. Integer feugiat lectus sit amet metus viverra tincidunt. In aliquet non nibh dictum faucibus. Nunc eget vulputate neque. Nulla iaculis mollis felis vehicula mattis. Mauris ut ante non quam tempor facilisis quis iaculis odio. Fusce condimentum, quam et dictum iaculis, ligula turpis maximus erat, non hendrerit tellus tellus quis risus. Proin nunc nisi, condimentum a dapibus quis, dapibus eu odio.<br><br>
 
     Sed varius felis sollicitudin urna eleifend, nec aliquet tellus eleifend. Maecenas ut eros urna. Nunc lacus augue, sagittis eget feugiat ac, venenatis ut urna. Vivamus sapien nunc, elementum ut tristique nec, consectetur sollicitudin enim. Aenean ac magna massa. Proin venenatis placerat urna, et tincidunt nibh. Etiam ullamcorper sapien et augue sodales porta. Vivamus aliquet tortor sed accumsan congue. Fusce velit quam, viverra ac metus sit amet, vehicula venenatis quam.</p>
