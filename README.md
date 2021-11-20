@@ -48,7 +48,7 @@ We ♥ Contributors!
 
 You can solve issues or create issues to enhance the look and functionality of the website.
 
-To ensure your contributions count,  I implore you to follow the instructions mentioned in the [CONTRIBUTING.md](https://github.com/everly-gif/Crafty-Citrus/blob/master/CONTRIBUTING.md)  
+To ensure your contributions count,  I implore you to follow the instructions mentioned in the [CONTRIBUTING.md](https://github.com/everly-gif/Crafty-Citrus/blob/main/CONTRIBUTING.md)  
 
 Happy Submissions
 
